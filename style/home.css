@@ -1,0 +1,95 @@
+header {
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    box-shadow:2px 2px 5px rgb(68, 67, 67);
+}
+
+ul li {
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.section0 {
+display: flex;
+justify-content: center;
+padding: 25px;
+}
+img {
+    width: 350px;
+}
+#section1 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+input {
+    border: 1px solid rgb(178, 165, 165);
+    border-radius:16px;
+    background-color: rgb(178, 165, 165);
+    color: rgb(178, 165, 165);
+    padding: 10px;
+    width: 850px;
+    margin-bottom: 40px;
+}
+
+.section2  {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+}
+
+.section2 p {
+    margin: auto;
+    
+}
+.p1 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.p2 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
+.p3 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
+.p4 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
+.p5 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
+.p6 {
+    border: 1px solid rgb(165, 149, 149);
+    background-color: rgb(165, 149, 149);
+    color:rgb(103, 91, 91);
+    border-radius: 10px;
+    padding: 12px;
+}
