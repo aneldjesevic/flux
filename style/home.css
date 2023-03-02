@@ -31,9 +31,9 @@ img {
 }
 
 input {
-    border: 1px solid rgb(178, 165, 165);
+    border: 1px solid rgb(203, 183, 183);
     border-radius:16px;
-    background-color: rgb(178, 165, 165);
+    background-color: rgb(203, 183, 183);
     color: rgb(178, 165, 165);
     padding: 10px;
     width: 850px;
@@ -45,51 +45,31 @@ input {
     justify-content: left;
     padding: 10px;
 }
-
 .section2 p {
     margin: auto;
-    
-}
-.p1 {
     border: 1px solid rgb(165, 149, 149);
     background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
+    color:rgb(57, 47, 47);
     border-radius: 10px;
     padding: 12px;
+    width: 150px; 
 }
 
-.p2 {
-    border: 1px solid rgb(165, 149, 149);
-    background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
-    border-radius: 10px;
-    padding: 12px;
+h2 {
+    font-size: 30px;
+    margin: 30px auto 30px 45px;
 }
-.p3 {
+.section3 {
     border: 1px solid rgb(165, 149, 149);
-    background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
     border-radius: 10px;
-    padding: 12px;
+    background-color: rgb(178, 165, 165);
+    margin-right: 900px;
+    margin-left: 45px;
+    padding: 10px;
+    display: flex;
 }
-.p4 {
-    border: 1px solid rgb(165, 149, 149);
-    background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
-    border-radius: 10px;
-    padding: 12px;
-}
-.p5 {
-    border: 1px solid rgb(165, 149, 149);
-    background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
-    border-radius: 10px;
-    padding: 12px;
-}
-.p6 {
-    border: 1px solid rgb(165, 149, 149);
-    background-color: rgb(165, 149, 149);
-    color:rgb(103, 91, 91);
-    border-radius: 10px;
-    padding: 12px;
+
+.image img {
+    width: 200px;
+    border-radius: 18px;
 }
