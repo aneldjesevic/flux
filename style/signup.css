@@ -19,6 +19,7 @@ ul{
     padding: 12px;
     box-shadow:2px 2px 5px rgb(68, 67, 67);
     height: 35px;
+    margin-top: -8px;
 }
 li {
     float: left;

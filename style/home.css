@@ -74,36 +74,35 @@ input:hover {
     
 }
 
-.section2 p  {
+/* .section2 p  {
     margin-right:30px;
     border: 1px solid rgb(165, 149, 149);
     background-color: rgb(195, 175, 175);
     color:rgb(57, 47, 47);
     border-radius: 10px;
     padding: 12px; 
-    width: 500px !important;
-}
+    width: 100%;
+} */
 .section2 a {
     margin-right:30px;
     background-color: rgb(195, 175, 175);
     color:rgb(57, 47, 47);
     border-radius: 10px;
     padding: 12px;
-    text-decoration: none; 
-    width: 500px !important;
+    text-decoration: none;
+    width: 100%;
 }
+
 .section2 a:hover {
     background-color: rgb(159, 154, 154);
     color: white;
-    border: 1px solid rgb(165, 149, 149);
-    width: 500px;
-}
-.section2 p:hover {
+    width: 100% !important;
+} 
+/* .section2 p:hover {
     background-color: rgb(159, 154, 154);
     color: white;
-    border: 1px solid rgb(165, 149, 149);
-    width: 500px;
-}
+    width: 100% !important;
+} */
 
 h2 {
     font-size: 25px;
