@@ -8,14 +8,14 @@ body{
 }
 
 nav {
-    background-color: #ff3333;
-    height: 50px;
+    background-color: #ff0000;
+    height: 55px;
     padding: 5px;
     margin: 0 0 50px 0;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 
     0 6px 20px 0 rgba(0, 0, 0, 0.19);
-font-family: 'Montserrat', sans-serif;
-font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
   }
   
   ul {
@@ -34,10 +34,19 @@ font-size: 20px;
   
   a {
     display: block;
+    margin: 2px 8px 2px 8px;
     padding: 0 10px;
     line-height: 50px;
     color: white;
     text-decoration: none;
+  }
+
+  a:hover {
+    background-color: rgb(253, 46, 46);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 1px;
   }
 
   #description{
