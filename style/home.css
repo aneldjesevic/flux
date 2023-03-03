@@ -3,10 +3,18 @@ header {
 }
 
 ul{
-    display: flex;
     list-style: none;
     padding: 12px;
     box-shadow:2px 2px 5px rgb(68, 67, 67);
+    height: 35px;
+}
+li {
+    float: left;
+    margin-top: 5px;
+}
+.login {
+    float: right;
+    margin-top: 5px;
 }
 
 ul li a {
@@ -99,12 +107,13 @@ h2 {
     margin-right: 10px;
     border-radius: 20px;
     box-shadow:2px 2px 5px rgb(68, 67, 67);
-    height: 250px;
+    height: 215px;
     background-color: white;
 }
 .content {
     display: flex;
     flex-direction: column;
+    margin:auto auto 5px auto;
 }
 .content h3 {
     font-size: 25px;
