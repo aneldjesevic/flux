@@ -76,8 +76,6 @@ input:hover {
 }
 
 .section2 {
-    background-color: rgba(197, 183, 183, 0.735);
-    border: 1px solid rgb(165, 149, 149);
     border-radius: 15px;
     padding: 25px;
     display: flex;
