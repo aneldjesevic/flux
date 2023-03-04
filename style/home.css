@@ -98,11 +98,6 @@ input:hover {
     color: white;
     width: 100% !important;
 } 
-/* .section2 p:hover {
-    background-color: rgb(159, 154, 154);
-    color: white;
-    width: 100% !important;
-} */
 
 h2 {
     font-size: 25px;
@@ -129,7 +124,7 @@ h2 {
     margin-right: 10px;
     border-radius: 20px;
     box-shadow:2px 2px 5px rgb(68, 67, 67);
-    height: 260px;
+    height: 230px;
     background-color: white;
     margin-left: 5px;
 }
@@ -152,7 +147,7 @@ h2 {
     margin-top: 12px;
 }
 .content button {
-    margin-top: 57px;
+    margin-top: 51px;
     width: 120px;
     border: 1px solid rgb(255, 13, 13);
     border-radius: 20px;
@@ -165,7 +160,7 @@ h2 {
     margin-bottom: 11px;
 }
 .content .button1 {
-    margin-top: 40px;
+    margin-top: 33px;
     width: 120px;
     border: 1px solid rgb(255, 13, 13);
     border-radius: 20px;
@@ -175,10 +170,10 @@ h2 {
     box-shadow:2px 2px 5px rgb(68, 67, 67);
     text-transform: uppercase;
     margin-left: 20px;
-    margin-bottom: 11px;
+    margin-bottom: 9px;
 }
 .content .button2 {
-    margin-top: 57px;
+    margin-top: 51px;
     width: 120px;
     border: 1px solid rgb(255, 13, 13);
     border-radius: 20px;
