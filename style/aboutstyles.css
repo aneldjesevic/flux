@@ -4,6 +4,7 @@ body {
   text-align: center;
   color: black;
   font-family: "Montserrat", sans-serif;
+  
 }
 h1 {
   text-transform: uppercase;
@@ -62,7 +63,9 @@ li:hover {
 }
 li:hover > li img:hover {
   height: 150px;
+
 }
 li:hover > li img:hover > .hover-effect:hover {
   visibility: visible;
+  
 }
