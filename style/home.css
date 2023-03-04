@@ -1,5 +1,5 @@
 header {
-    background-color: red;
+    background-color: #ff3333;
 }
 
 
@@ -12,6 +12,7 @@ nav {
         0 6px 20px 0 rgba(0, 0, 0, 0.19);
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 ul {
@@ -40,6 +41,7 @@ li a:hover {
     line-height: 50px;
     color: white;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 
@@ -161,7 +163,6 @@ h2 {
 
 .content button {
     margin-top: 15px;
-
     width: 120px;
     border: 1px solid rgb(255, 13, 13);
     border-radius: 20px;
