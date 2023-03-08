@@ -37,7 +37,6 @@ li {
 }
 
 ul li a {
-    padding: 15px;
     font-size: 24px;
     color: white;
     text-transform: uppercase;
@@ -48,7 +47,6 @@ ul li a {
 ul li a:hover {
     background-color: rgb(255, 59, 59);
     text-decoration: none;
-    padding: 5px;
     color:white;
     border-radius: 10px;
 
