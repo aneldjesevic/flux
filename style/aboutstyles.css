@@ -39,6 +39,9 @@ li img {
   margin: 15px 10px;
   border-radius: 10px;
 }
+li p{
+  margin-right:15px;
+}
 h2 {
   margin-top: 30px;
 }
@@ -49,7 +52,7 @@ section {
 .hover-effect {
   margin: 65px auto 35px -150px;
   text-align: left;
-  transition: (0,5);
+  
 }
 .hover-effect img {
   background-color: white;
@@ -57,20 +60,21 @@ section {
   text-align: left;
   width: 25px;
   height: 25px;
-  transition: (0,5);
+  
 }
 li:hover {
   height: 400px;
   width: 450px;
-  transition: (0,5);
+  transition: 0.5s;
+  
 }
 li:hover > li img:hover {
   height: 150px;
-  transition: (0,5);
+  
 
 }
 li:hover > li img:hover > .hover-effect:hover {
   visibility: visible;
-  transition: (0,5);
+ 
   
 }
