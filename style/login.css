@@ -10,13 +10,10 @@ padding:50px;
 }
 img{  
     width: 400px;
-
 }
 header {
     background-color: #ff3333;
 }
-
-
 nav {
     background-color: #ff3333;
     height: 60px;
@@ -27,13 +24,11 @@ nav {
     font-size: 20px;
     text-transform: uppercase;
 }
-
  nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-
 header ul li {
     float: left;
     margin: 0 10px 0 10px;
@@ -43,18 +38,14 @@ header li a{
 position: relative;
 top: 22px;
 font-size: smaller;
-
 }
-
 header li a:hover {
     background-color: rgb(255, 137, 137);
     border-radius: 8px;
 }
-
 #login {
     float: right;
 }
-
 ul li a {
     padding: 15px;
     font-size: 24px;
@@ -63,19 +54,15 @@ ul li a {
     text-decoration: none;
     margin: 5px;
 }
-
 ul li a:hover {
     background-color: rgb(255, 59, 59);
     text-decoration: none;
     padding: 5px;
     color:white;
     border-radius: 10px;
-
 }
-
 h1{
     font-size: 2rem;
-
 }
 form{
     display: flex;
@@ -91,16 +78,13 @@ form{
  box-shadow: 2px 4px 6px rgb(68,67,67) ;
  border: none;
 }
-
 h1{
     text-transform: uppercase;
 }
 .checkbox{
-    display: inline;
-    
+    display: inline; 
 }
-.checkbox input{
-    
+.checkbox input{ 
     width:25px;
     height:50px;
     position: relative;
@@ -115,10 +99,7 @@ label{
 input{
     display: block;
     border: none;
-    margin: 15px;
-    
-    
-    
+    margin: 15px;  
 }
 p{
     font-weight: bold;
@@ -141,8 +122,6 @@ button{
     padding: 10px;
     position: relative;
     bottom: 50px; 
-  
-    
 }
 button:hover {
     background-color: #ed3655;
@@ -154,8 +133,7 @@ form a{
     font-weight: bold;
 }
 form a:hover{
-    color: #db1435;
-   
+    color: #db1435;  
 }
 #user-password input{
     margin: 1rem auto;

@@ -9,14 +9,11 @@ body{
     padding:50px;
     }
 img{  
-    width: 400px;
-    
+    width: 400px; 
 }
 header {
     background-color: #ff3333;
 }
-
-
 nav {
     background-color: #ff3333;
     height: 60px;
@@ -27,13 +24,11 @@ nav {
     font-size: 20px;
     text-transform: uppercase;
 }
-
  nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-
 header ul li {
     float: left;
     margin: 0 10px 0 10px;
@@ -42,20 +37,15 @@ header ul li {
 header li a{
 position: relative;
 top: 22px;
-
-
 }
-
 header li a:hover {
     background-color: #FF8989;
     width: 15px;
     border-radius: 8px;
 }
-
 #login {
     float: right;
 }
-
 ul li a {
     font-size: 24px;
     color: white;
@@ -70,7 +60,6 @@ ul li a {
     border-radius: 10px;
 
 }
-
 h1{
     font-size: 2rem;
 }
@@ -86,7 +75,6 @@ form{
  border: none;
  box-shadow: 2px 2px 5px rgb(68,67,67);
 }
-
 h1{
     text-transform: uppercase;
     padding-top: 10px;
@@ -95,9 +83,7 @@ input{
     display: block;
     border: none;
     margin: 18px;
-    border-radius: 12px;
-    
-    
+    border-radius: 12px;   
 }
 p{
     font-weight: bold;
@@ -119,9 +105,7 @@ button{
     box-shadow:2px 4px 6px rgb(94, 94, 94);
     padding: 10px;
     position: relative;
-    bottom: 10px;
-  
-    
+    bottom: 10px;   
 }
 button:hover {
     background-color: #ed3655;
@@ -134,7 +118,6 @@ form a{
 }
 form a:hover{
     color: #db1435;
-   
 }
 #user-password input{
     margin: 1rem auto;
