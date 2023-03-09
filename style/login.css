@@ -13,27 +13,46 @@ img{
 
 }
 header {
-    background-color:#FF0000;
+    background-color: #ff3333;
 }
 
-ul{
+
+nav {
+    background-color: #ff3333;
+    height: 60px;
+    padding: 5px;
+    margin: 0 0 25px 0;
+    box-shadow: 4px 6px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+ nav ul {
+    margin: 0;
+    padding: 0;
     list-style: none;
-    padding: 12px;
-    box-shadow:2px 2px 5px rgb(68, 67, 67);
-    height: 35px;
-    margin-top: -8px;
 }
-li {
+
+header ul li {
     float: left;
-    margin-top: 5px;
+    margin: 0 10px 0 10px;
+    font-size: 10px;
 }
-.login {
+header li a{
+position: relative;
+top: 22px;
+font-size: smaller;
+
+}
+
+header li a:hover {
+    background-color: rgb(255, 137, 137);
+    border-radius: 8px;
+}
+
+#login {
     float: right;
-    margin-top: 5px;
-}
- .login a{
-margin: 0;
-padding: 0;
 }
 
 ul li a {
@@ -149,6 +168,6 @@ form a:hover{
 }
 #second{
     position: relative;
-    bottom: 30px;
+    bottom: 35px;
 }
 

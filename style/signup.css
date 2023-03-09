@@ -41,12 +41,14 @@ header ul li {
 }
 header li a{
 position: relative;
-top: 19px;
+top: 22px;
+
 
 }
 
 header li a:hover {
-    background-color: #f5a1a1;
+    background-color: #FF8989;
+    width: 15px;
     border-radius: 8px;
 }
 
